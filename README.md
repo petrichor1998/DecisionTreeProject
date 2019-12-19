@@ -1,4 +1,6 @@
 # Decision_tree
+The zip file contains the code for the problem that has been stated in the pdf labelled "hw1"
+
 code submitted by: PARTH PADALKAR. UTD ID 2021473758
 
 language : Python2.7
