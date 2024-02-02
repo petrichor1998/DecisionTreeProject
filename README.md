@@ -1,5 +1,5 @@
-# Decision_tree
-The zip file contains the code for the problem that has been stated in the pdf labelled "hw1"
+# A Deep Dve into Decision Trees and Random Forests
+The zip file contains the code for the problem that has been stated in the pdf labeled "hw1"
 
 code submitted by: PARTH PADALKAR. UTD ID 2021473758
 
